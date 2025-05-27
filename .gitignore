@@ -1,0 +1,15 @@
+# Python ignores
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+
+# Environment/IDE settings
+.env
+*.env
+*.vscode/
+*.idea/
+
+# OS files
+.DS_Store
